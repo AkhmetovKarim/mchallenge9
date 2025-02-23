@@ -17,3 +17,5 @@ class Employee { //create a class with properties
 const emp1 = new Employee("Alice Johnson", 101, "Sales", 5000);
 console.log(emp1.getDetails()); //test cases
 console.log(emp1.calculateAnnualSalary());
+//
+
